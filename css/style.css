@@ -244,7 +244,7 @@ footer p {
         background: #FFFFFF;
         border: 1px solid #0A3871;
         color: #0A3871;
-        width: 85%;
+        width: 85% !important;
         margin-top: 10px;
     }
     .muneco {
@@ -303,7 +303,7 @@ footer p {
     .alert {
         height: 50px;
         padding: 10px;
-        width: 100%;
+        width: 85%;
         margin: 10px 0;
     }
     .alert-icon {
