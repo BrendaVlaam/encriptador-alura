@@ -331,6 +331,9 @@ footer p {
         margin: 0 30px;
         font-size: 0.8em;
     }
+    .boton-copiar {
+        width: 85% !important;
+    }
     footer {
         margin: 15px auto;
     }
