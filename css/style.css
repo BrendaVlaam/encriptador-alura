@@ -117,6 +117,7 @@ textarea {
     height: 80%;
     font-size: 1.7em;
     word-break: break-word;
+    overflow-y: scroll;
 }
 .alert {
     height: 50px;

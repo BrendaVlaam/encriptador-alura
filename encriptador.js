@@ -80,6 +80,12 @@ document.addEventListener('DOMContentLoaded', function() {
       // borra el texto del textarea
       function borrarTexto() {
         textoOriginal.value = "";
+
+        muneco.classList.remove('oculto');
+        msjeEncontrado.classList.remove('oculto');
+        ingresaTexto.classList.remove('oculto');
+        btnCopiar.classList.add('oculto'); 
+        outputText.classList.add('oculto');
       }
 
 
