@@ -86,6 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
         ingresaTexto.classList.remove('oculto');
         btnCopiar.classList.add('oculto'); 
         outputText.classList.add('oculto');
+        alert.classList.add('d-none');
       }
 
 
